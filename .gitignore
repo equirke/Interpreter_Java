@@ -23,5 +23,6 @@
 hs_err_pid*
 replay_pid*
 
-# Intellij output
+# Intellij output and config
 out/
+.idea/
